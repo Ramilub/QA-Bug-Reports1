@@ -22,8 +22,7 @@ This inconsistency suggests a **localization defect** — a missing translation 
 2. Set the app language to **Russian**  
 3. Go to the **Marketplace** section  
 4. Tap on the **search bar** and enter any keyword (e.g., "highlander hybrid", "телефон")  
-5. Observe the filters that appear below the search field ![51667](https://github.com/user-attachments/assets/0d00d3e0-1df6-46f2-88aa-90a876887f4f)
- 
+5. Observe the filters that appear below the search field 
 6. The **first filter says “Distance”** (in English), while all other filters are in Russian  
 7. Tap on the “Distance” filter — all content inside is in Russian
 
@@ -48,7 +47,10 @@ The first filter appears as “Distance” (in English) in a Russian-language in
 ---
 
 ## Evidence:
-*Screenshot recommended: `![99485](https://github.com/user-attachments/assets/6d70856d-abea-4463-bb92-847f4ed80f97)`*
+*Screenshot :
+-![51667](https://github.com/user-attachments/assets/ac86a4e5-dea2-4f53-9e64-975284d1bb65)
+-![99485](https://github.com/user-attachments/assets/ccf5f6e2-a9b4-4767-b424-93f63abe4c69)
+
 
 ---
 
